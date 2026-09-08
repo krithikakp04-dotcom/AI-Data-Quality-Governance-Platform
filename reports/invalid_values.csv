@@ -1,0 +1,6 @@
+Row,Column,Issue,Value
+6,Age,Invalid age value,150.0
+16,Age,Invalid age value,200.0
+4,Income,Negative income,-5000.0
+5,Income,Negative income,-5000.0
+13,Income,Negative income,-10000.0
