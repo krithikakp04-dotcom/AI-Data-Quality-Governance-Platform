@@ -1,4 +1,4 @@
 Customer_ID,Age,Income,City,Purchase,Anomaly,Anomaly Status
-110,42.0,60000,Kochi,1500,-1,Anomaly
-112,33.0,-10000,Kochi,1000,-1,Anomaly
-115,200.0,50000,Kochi,1100,-1,Anomaly
+205,145.0,40000,KANNUR,850,-1,Anomaly
+212,34.0,-9000,Kochi,950,-1,Anomaly
+215,180.0,49000,Kochi,1050,-1,Anomaly
