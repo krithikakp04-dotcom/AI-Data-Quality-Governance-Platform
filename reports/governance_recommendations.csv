@@ -1,0 +1,5 @@
+Issue Type,Column,Issue,Recommendation,Priority
+Missing Data,Age,3 missing value(s),Impute missing values or collect the missing information.,High
+Duplicate Data,All Columns,1 duplicate row(s),Remove duplicate records and enforce unique record identifiers.,High
+Invalid Data,"Age, Income",5 invalid record(s),Validate values using business rules and acceptable ranges.,High
+Inconsistency,City,Different representations of the same category,Standardize categorical values using a common format.,Medium
